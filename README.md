@@ -1,1 +1,7 @@
-Banking Application, developed in the 'Spring Boot' and 'Hibernate' and 'Core Java'.
+Banking Application in 
+Used Technologies:
+'Spring Boot'
+'Hibernate'
+'MySQL'
+'JDBC'
+'Core Java'
